@@ -58,20 +58,30 @@ I am a passionate developer focused on building secure, scalable, and aesthetica
 
 ---
 
+# 📊 My Coding Journey
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonal-sp&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonal-sp&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sonal-sp&show_icons=true&theme=visual_studio_code&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonal-sp&layout=compact&theme=visual_studio_code&hide_border=true" alt="Top Languages" width="42%" />
 </p>
 
-### 🐍 Contribution Activity
+### 📈 Activity Graph
 ![Sonal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sonal-sp&theme=react-dark)
+
+### 🐍 Contribution Activity
+![Contribution Snake](https://github-mirror.com/output/Sonal-sp/github-contribution-grid-snake.svg)
+
 ---
 
 ## 🤝 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sonal-parmar-8898752a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulchakraborty/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:sonalparmar2697@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulchakraborty/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sonal-parmar-8898752a2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sonalparmar2697@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 ---
 
