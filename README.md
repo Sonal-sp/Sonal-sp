@@ -50,7 +50,7 @@ I am a passionate developer focused on building secure, scalable, and aesthetica
 | :--- | :--- | :--- |
 | **🎨 Photobooth** | Interactive web app with custom stickers and canvas manipulation. | React, Vite, Tailwind |
 | **📱 Safestep** | Personal safety app with real-time tracking and emergency alerts.Final Year Capstone Project in my college. | Flutter, Firebase , Iot Hardware prototype using ESP32 , MPU6050 & Buzzer |
-| **📊 GigPilot** | Financial tracking solution for PixelVerse; National Level Hackathon held at SIESGST and organized by Goodgle Developer Group. Top 45 Finalists with my other 2 teammates. | UI/UX Prototype |
+| **📊 GigPilot** | Financial tracking solution for PixelVerse; National Level Hackathon held at SIESGST and organized by Google Developer Group. Top 45 Finalists with my other 2 teammates. | UI/UX Prototype |
 | **ReciPro** | is a smart recipe management platform that helps users organize, create, and optimize recipes by managing ingredients, tracking costs, and improving cooking efficiency through an intuitive interface.Pixelverse 1st round solution. | Figma , UI/UX | https://www.figma.com/design/P0n4X6kagsnvbADtC0ojqP/ReciPro?node-id=0-1&t=hdrDVaGbIDo6aDWT-1 |
 | **🤖 ResumeAI** | SaaS-style AI tool to optimize resumes against ATS filters. | AI Integration, UI/UX | https://www.figma.com/design/6pm60DtYdpTyqFZvTiV50L/ResumeAI?node-id=0-1&t=NwZsgsxhqQjzukXa-1 |
 | **✅ Habit Tracker** | Minimal, mobile-first app focused on behavioral consistency. | UI/UX, Minimalist Design | https://www.figma.com/design/6pm60DtYdpTyqFZvTiV50L/ResumeAI?node-id=0-1 |
