@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Sonal-sp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 🚀 Computer Engineering Student & Full-Stack Developer
+### 🚀 Computer Engineering Student 
 I am a passionate developer focused on building secure, scalable, and aesthetically pleasing applications. I bridge the gap between robust **Cybersecurity** and modern **UI/UX Design**.
 
 ---
