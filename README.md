@@ -16,9 +16,7 @@
   <i>Building. Learning. Experimenting. Improving.</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sonal-sp&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Sonal Parmar</h1>
 
